@@ -14,7 +14,7 @@
     "reactstrap": "^9.2.0",
     "web-vitals": "^2.1.4"
   },
-  "proxy": "http://localhost:3001",
+  "proxy": "https://jwtauth-production-c80c.up.railway.app",
   "scripts": {
     "start": "react-scripts start",
     "build": "CI=false && react-scripts build",
